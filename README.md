@@ -1,7 +1,7 @@
 ## Deploy Simple ERC20 Token on Remix
 
 ### Deploy Token on Remix 
-
+from https://www.youtube.com/watch?v=XyoFT4QkoL4&t=1075s
 1. Compile and deploy contracts on JVM to check all is working well 
 
 - Copy Token.sol Solidity Code into a file in Remix rename Token.sol
